@@ -95,7 +95,7 @@ location.href = "/";
 <form method="POST" >
 <h2>Login to Halcyon</h2>
 <p>
-or <a href="https://joinmastodon.org/">create an account</a>
+or <a href="https://qoto.org/auth/sign_up/">create an account</a>
 </p>
 <div class="session_aleart">
 <span></span>
@@ -120,7 +120,7 @@ I agree with the <a href="/terms">Terms</a>
 <article id="article">
 <h2>What is Halcyon</h2>
 <p>
-Halcyon is a webclient for <a href="https://joinmastodon.org">Mastodon</a> and <a href="https://pleroma.social">Pleroma</a> which aims to recreate the simple and beautiful user interface of Twitter while keeping all advantages of decentral networks in focus.
+Halcyon is a webclient for <a href="https://qoto.org/auth/sign_up">Mastodon</a> which aims to recreate the simple and beautiful user interface of Twitter while keeping all advantages of decentral networks in focus.
 </p>
 <div class="image_wrap">
 <ul>
@@ -133,13 +133,7 @@ Halcyon is a webclient for <a href="https://joinmastodon.org">Mastodon</a> and <
 </div>
 <h2>Contact / Feedback</h2>
 <p>
-Mastodon: <a href="https://social.csswg.org/@halcyon" target="_blank">＠halcyon@social.csswg.org</a><br/>
-Email: <a href="http://www.nikisoft.one/contact.php" target="_blank">Use my contact form</a><br/>
-Git repository: <a href="https://notabug.org/halcyon-suite/halcyon" target="_blank">halcyon-suite/halcyon</a>
-</p>
-<h2>Help us</h2>
-<p>
-Bitcoin: 1D6GThQqHQYnruKYrKyW9JC86ZGWxjt1hK<br/>
+Mastodon: <a href="https://qoto.org/@hfreemo" target="_blank">＠freemo@qoto.org</a><br/>
 </p>
 </article>
 </main>
